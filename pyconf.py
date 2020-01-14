@@ -1,4 +1,4 @@
-
+# comment
 
 class Config:
     """Provides object-style access and utilities to basic objects like list and dict"""
